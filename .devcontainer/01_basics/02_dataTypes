@@ -2,7 +2,9 @@
 
 //alert( 3 +3) // we arenusin node JS, not browser
 
-console.log(3+3); console.log ("Aayush")//code redability should be high
+//console.log(3+3)
+
+//console.log ("Aayush")//code redability should be high
 
 
 let name ="ayush"
@@ -20,6 +22,6 @@ let isLoggedIn = false
 //symbol =>unique
 //object
 
-console.log(typeof undefined);//undefined
+console.log(typeof "age");//undefined
 console.log(typeof null);//object
 
